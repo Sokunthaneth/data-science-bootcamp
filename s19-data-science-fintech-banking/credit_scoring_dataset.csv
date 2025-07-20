@@ -1,0 +1,201 @@
+ID,Age,Income,Employment_Status,Loan_Amount,Loan_Purpose,Credit_History,Debt_to_Income,Num_Open_Accounts,Num_Delinquencies,Residence_Type,Marital_Status,Education,Default
+1,34,55000,Employed,12000,Car,Good,0.25,4,0,Own,Married,Bachelor,0
+2,45,72000,Self-Employed,20000,Home Improvement,Fair,0.32,6,1,Rent,Married,Master,0
+3,29,43000,Employed,8000,Personal,Good,0.18,3,0,Own,Single,Bachelor,0
+4,52,90000,Employed,25000,Debt Consolidation,Excellent,0.28,7,0,Own,Married,PhD,0
+5,38,61000,Unemployed,10000,Medical,Poor,0.40,5,2,Rent,Divorced,High School,1
+6,41,67000,Employed,15000,Car,Fair,0.30,5,1,Own,Married,Bachelor,0
+7,27,39000,Employed,7000,Personal,Good,0.22,2,0,Rent,Single,Bachelor,0
+8,33,52000,Self-Employed,11000,Home Improvement,Fair,0.27,4,0,Own,Married,Master,0
+9,48,80000,Employed,22000,Debt Consolidation,Excellent,0.26,6,0,Own,Married,PhD,0
+10,36,58000,Unemployed,9000,Medical,Poor,0.38,4,2,Rent,Divorced,High School,1
+11,30,45000,Employed,8500,Car,Good,0.20,3,0,Own,Single,Bachelor,0
+12,44,75000,Self-Employed,21000,Home Improvement,Fair,0.33,6,1,Rent,Married,Master,0
+13,28,40000,Employed,7500,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+14,53,92000,Employed,26000,Debt Consolidation,Excellent,0.29,7,0,Own,Married,PhD,0
+15,39,62000,Unemployed,10500,Medical,Poor,0.41,5,2,Rent,Divorced,High School,1
+16,42,68000,Employed,15500,Car,Fair,0.31,5,1,Own,Married,Bachelor,0
+17,26,38000,Employed,6800,Personal,Good,0.21,2,0,Rent,Single,Bachelor,0
+18,32,51000,Self-Employed,10800,Home Improvement,Fair,0.26,4,0,Own,Married,Master,0
+19,47,79000,Employed,21800,Debt Consolidation,Excellent,0.25,6,0,Own,Married,PhD,0
+20,35,57000,Unemployed,8800,Medical,Poor,0.37,4,2,Rent,Divorced,High School,1
+21,31,46000,Employed,8700,Car,Good,0.21,3,0,Own,Single,Bachelor,0
+22,43,76000,Self-Employed,21500,Home Improvement,Fair,0.34,6,1,Rent,Married,Master,0
+23,29,41000,Employed,7800,Personal,Good,0.20,2,0,Own,Single,Bachelor,0
+24,54,93000,Employed,27000,Debt Consolidation,Excellent,0.30,7,0,Own,Married,PhD,0
+25,40,63000,Unemployed,11000,Medical,Poor,0.42,5,2,Rent,Divorced,High School,1
+26,43,69000,Employed,16000,Car,Fair,0.32,5,1,Own,Married,Bachelor,0
+27,25,37000,Employed,6500,Personal,Good,0.20,2,0,Rent,Single,Bachelor,0
+28,34,50000,Self-Employed,10500,Home Improvement,Fair,0.25,4,0,Own,Married,Master,0
+29,49,81000,Employed,22500,Debt Consolidation,Excellent,0.27,6,0,Own,Married,PhD,0
+30,37,59000,Unemployed,9500,Medical,Poor,0.39,4,2,Rent,Divorced,High School,1
+31,32,47000,Employed,9000,Car,Good,0.22,3,0,Own,Single,Bachelor,0
+32,46,77000,Self-Employed,22000,Home Improvement,Fair,0.35,6,1,Rent,Married,Master,0
+33,30,42000,Employed,8000,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+34,55,94000,Employed,28000,Debt Consolidation,Excellent,0.31,7,0,Own,Married,PhD,0
+35,41,64000,Unemployed,11500,Medical,Poor,0.43,5,2,Rent,Divorced,High School,1
+36,44,70000,Employed,16500,Car,Fair,0.33,5,1,Own,Married,Bachelor,0
+37,24,36000,Employed,6200,Personal,Good,0.19,2,0,Rent,Single,Bachelor,0
+38,35,49000,Self-Employed,10200,Home Improvement,Fair,0.24,4,0,Own,Married,Master,0
+39,50,82000,Employed,23000,Debt Consolidation,Excellent,0.28,6,0,Own,Married,PhD,0
+40,38,60000,Unemployed,12000,Medical,Poor,0.44,5,2,Rent,Divorced,High School,1
+41,33,48000,Employed,9200,Car,Good,0.23,3,0,Own,Single,Bachelor,0
+42,47,78000,Self-Employed,22500,Home Improvement,Fair,0.36,6,1,Rent,Married,Master,0
+43,31,43000,Employed,8200,Personal,Good,0.18,2,0,Own,Single,Bachelor,0
+44,56,95000,Employed,29000,Debt Consolidation,Excellent,0.32,7,0,Own,Married,PhD,0
+45,42,65000,Unemployed,11800,Medical,Poor,0.45,5,2,Rent,Divorced,High School,1
+46,45,71000,Employed,17000,Car,Fair,0.34,5,1,Own,Married,Bachelor,0
+47,23,35000,Employed,6000,Personal,Good,0.18,2,0,Rent,Single,Bachelor,0
+48,36,48000,Self-Employed,9900,Home Improvement,Fair,0.23,4,0,Own,Married,Master,0
+49,51,83000,Employed,23500,Debt Consolidation,Excellent,0.29,6,0,Own,Married,PhD,0
+50,39,61000,Unemployed,12500,Medical,Poor,0.46,5,2,Rent,Divorced,High School,1
+51,34,55000,Employed,12000,Car,Good,0.25,4,0,Own,Married,Bachelor,0
+52,45,72000,Self-Employed,20000,Home Improvement,Fair,0.32,6,1,Rent,Married,Master,0
+53,29,43000,Employed,8000,Personal,Good,0.18,3,0,Own,Single,Bachelor,0
+54,52,90000,Employed,25000,Debt Consolidation,Excellent,0.28,7,0,Own,Married,PhD,0
+55,38,61000,Unemployed,10000,Medical,Poor,0.40,5,2,Rent,Divorced,High School,1
+56,41,67000,Employed,15000,Car,Fair,0.30,5,1,Own,Married,Bachelor,0
+57,27,39000,Employed,7000,Personal,Good,0.22,2,0,Rent,Single,Bachelor,0
+58,33,52000,Self-Employed,11000,Home Improvement,Fair,0.27,4,0,Own,Married,Master,0
+59,48,80000,Employed,22000,Debt Consolidation,Excellent,0.26,6,0,Own,Married,PhD,0
+60,36,58000,Unemployed,9000,Medical,Poor,0.38,4,2,Rent,Divorced,High School,1
+61,30,45000,Employed,8500,Car,Good,0.20,3,0,Own,Single,Bachelor,0
+62,44,75000,Self-Employed,21000,Home Improvement,Fair,0.33,6,1,Rent,Married,Master,0
+63,28,40000,Employed,7500,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+64,53,92000,Employed,26000,Debt Consolidation,Excellent,0.29,7,0,Own,Married,PhD,0
+65,39,62000,Unemployed,10500,Medical,Poor,0.41,5,2,Rent,Divorced,High School,1
+66,42,68000,Employed,15500,Car,Fair,0.31,5,1,Own,Married,Bachelor,0
+67,26,38000,Employed,6800,Personal,Good,0.21,2,0,Rent,Single,Bachelor,0
+68,32,51000,Self-Employed,10800,Home Improvement,Fair,0.26,4,0,Own,Married,Master,0
+69,47,79000,Employed,21800,Debt Consolidation,Excellent,0.25,6,0,Own,Married,PhD,0
+70,35,57000,Unemployed,8800,Medical,Poor,0.37,4,2,Rent,Divorced,High School,1
+71,31,46000,Employed,8700,Car,Good,0.21,3,0,Own,Single,Bachelor,0
+72,43,76000,Self-Employed,21500,Home Improvement,Fair,0.34,6,1,Rent,Married,Master,0
+73,29,41000,Employed,7800,Personal,Good,0.20,2,0,Own,Single,Bachelor,0
+74,54,93000,Employed,27000,Debt Consolidation,Excellent,0.30,7,0,Own,Married,PhD,0
+75,40,63000,Unemployed,11000,Medical,Poor,0.42,5,2,Rent,Divorced,High School,1
+76,43,69000,Employed,16000,Car,Fair,0.32,5,1,Own,Married,Bachelor,0
+77,25,37000,Employed,6500,Personal,Good,0.20,2,0,Rent,Single,Bachelor,0
+78,34,50000,Self-Employed,10500,Home Improvement,Fair,0.25,4,0,Own,Married,Master,0
+79,49,81000,Employed,22500,Debt Consolidation,Excellent,0.27,6,0,Own,Married,PhD,0
+80,37,59000,Unemployed,9500,Medical,Poor,0.39,4,2,Rent,Divorced,High School,1
+81,32,47000,Employed,9000,Car,Good,0.22,3,0,Own,Single,Bachelor,0
+82,46,77000,Self-Employed,22000,Home Improvement,Fair,0.35,6,1,Rent,Married,Master,0
+83,30,42000,Employed,8000,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+84,55,94000,Employed,28000,Debt Consolidation,Excellent,0.31,7,0,Own,Married,PhD,0
+85,41,64000,Unemployed,11500,Medical,Poor,0.43,5,2,Rent,Divorced,High School,1
+86,44,70000,Employed,16500,Car,Fair,0.33,5,1,Own,Married,Bachelor,0
+87,24,36000,Employed,6200,Personal,Good,0.19,2,0,Rent,Single,Bachelor,0
+88,35,49000,Self-Employed,10200,Home Improvement,Fair,0.24,4,0,Own,Married,Master,0
+89,50,82000,Employed,23000,Debt Consolidation,Excellent,0.28,6,0,Own,Married,PhD,0
+90,38,60000,Unemployed,12000,Medical,Poor,0.44,5,2,Rent,Divorced,High School,1
+91,33,48000,Employed,9200,Car,Good,0.23,3,0,Own,Single,Bachelor,0
+92,47,78000,Self-Employed,22500,Home Improvement,Fair,0.36,6,1,Rent,Married,Master,0
+93,31,43000,Employed,8200,Personal,Good,0.18,2,0,Own,Single,Bachelor,0
+94,56,95000,Employed,29000,Debt Consolidation,Excellent,0.32,7,0,Own,Married,PhD,0
+95,42,65000,Unemployed,11800,Medical,Poor,0.45,5,2,Rent,Divorced,High School,1
+96,45,71000,Employed,17000,Car,Fair,0.34,5,1,Own,Married,Bachelor,0
+97,23,35000,Employed,6000,Personal,Good,0.18,2,0,Rent,Single,Bachelor,0
+98,36,48000,Self-Employed,9900,Home Improvement,Fair,0.23,4,0,Own,Married,Master,0
+99,51,83000,Employed,23500,Debt Consolidation,Excellent,0.29,6,0,Own,Married,PhD,0
+100,39,61000,Unemployed,12500,Medical,Poor,0.46,5,2,Rent,Divorced,High School,1
+101,34,55000,Employed,12000,Car,Good,0.25,4,0,Own,Married,Bachelor,0
+102,45,72000,Self-Employed,20000,Home Improvement,Fair,0.32,6,1,Rent,Married,Master,0
+103,29,43000,Employed,8000,Personal,Good,0.18,3,0,Own,Single,Bachelor,0
+104,52,90000,Employed,25000,Debt Consolidation,Excellent,0.28,7,0,Own,Married,PhD,0
+105,38,61000,Unemployed,10000,Medical,Poor,0.40,5,2,Rent,Divorced,High School,1
+106,41,67000,Employed,15000,Car,Fair,0.30,5,1,Own,Married,Bachelor,0
+107,27,39000,Employed,7000,Personal,Good,0.22,2,0,Rent,Single,Bachelor,0
+108,33,52000,Self-Employed,11000,Home Improvement,Fair,0.27,4,0,Own,Married,Master,0
+109,48,80000,Employed,22000,Debt Consolidation,Excellent,0.26,6,0,Own,Married,PhD,0
+110,36,58000,Unemployed,9000,Medical,Poor,0.38,4,2,Rent,Divorced,High School,1
+111,30,45000,Employed,8500,Car,Good,0.20,3,0,Own,Single,Bachelor,0
+112,44,75000,Self-Employed,21000,Home Improvement,Fair,0.33,6,1,Rent,Married,Master,0
+113,28,40000,Employed,7500,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+114,53,92000,Employed,26000,Debt Consolidation,Excellent,0.29,7,0,Own,Married,PhD,0
+115,39,62000,Unemployed,10500,Medical,Poor,0.41,5,2,Rent,Divorced,High School,1
+116,42,68000,Employed,15500,Car,Fair,0.31,5,1,Own,Married,Bachelor,0
+117,26,38000,Employed,6800,Personal,Good,0.21,2,0,Rent,Single,Bachelor,0
+118,32,51000,Self-Employed,10800,Home Improvement,Fair,0.26,4,0,Own,Married,Master,0
+119,47,79000,Employed,21800,Debt Consolidation,Excellent,0.25,6,0,Own,Married,PhD,0
+120,35,57000,Unemployed,8800,Medical,Poor,0.37,4,2,Rent,Divorced,High School,1
+121,31,46000,Employed,8700,Car,Good,0.21,3,0,Own,Single,Bachelor,0
+122,43,76000,Self-Employed,21500,Home Improvement,Fair,0.34,6,1,Rent,Married,Master,0
+123,29,41000,Employed,7800,Personal,Good,0.20,2,0,Own,Single,Bachelor,0
+124,54,93000,Employed,27000,Debt Consolidation,Excellent,0.30,7,0,Own,Married,PhD,0
+125,40,63000,Unemployed,11000,Medical,Poor,0.42,5,2,Rent,Divorced,High School,1
+126,43,69000,Employed,16000,Car,Fair,0.32,5,1,Own,Married,Bachelor,0
+127,25,37000,Employed,6500,Personal,Good,0.20,2,0,Rent,Single,Bachelor,0
+128,34,50000,Self-Employed,10500,Home Improvement,Fair,0.25,4,0,Own,Married,Master,0
+129,49,81000,Employed,22500,Debt Consolidation,Excellent,0.27,6,0,Own,Married,PhD,0
+130,37,59000,Unemployed,9500,Medical,Poor,0.39,4,2,Rent,Divorced,High School,1
+131,32,47000,Employed,9000,Car,Good,0.22,3,0,Own,Single,Bachelor,0
+132,46,77000,Self-Employed,22000,Home Improvement,Fair,0.35,6,1,Rent,Married,Master,0
+133,30,42000,Employed,8000,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+134,55,94000,Employed,28000,Debt Consolidation,Excellent,0.31,7,0,Own,Married,PhD,0
+135,41,64000,Unemployed,11500,Medical,Poor,0.43,5,2,Rent,Divorced,High School,1
+136,44,70000,Employed,16500,Car,Fair,0.33,5,1,Own,Married,Bachelor,0
+137,24,36000,Employed,6200,Personal,Good,0.19,2,0,Rent,Single,Bachelor,0
+138,35,49000,Self-Employed,10200,Home Improvement,Fair,0.24,4,0,Own,Married,Master,0
+139,50,82000,Employed,23000,Debt Consolidation,Excellent,0.28,6,0,Own,Married,PhD,0
+140,38,60000,Unemployed,12000,Medical,Poor,0.44,5,2,Rent,Divorced,High School,1
+141,33,48000,Employed,9200,Car,Good,0.23,3,0,Own,Single,Bachelor,0
+142,47,78000,Self-Employed,22500,Home Improvement,Fair,0.36,6,1,Rent,Married,Master,0
+143,31,43000,Employed,8200,Personal,Good,0.18,2,0,Own,Single,Bachelor,0
+144,56,95000,Employed,29000,Debt Consolidation,Excellent,0.32,7,0,Own,Married,PhD,0
+145,42,65000,Unemployed,11800,Medical,Poor,0.45,5,2,Rent,Divorced,High School,1
+146,45,71000,Employed,17000,Car,Fair,0.34,5,1,Own,Married,Bachelor,0
+147,23,35000,Employed,6000,Personal,Good,0.18,2,0,Rent,Single,Bachelor,0
+148,36,48000,Self-Employed,9900,Home Improvement,Fair,0.23,4,0,Own,Married,Master,0
+149,51,83000,Employed,23500,Debt Consolidation,Excellent,0.29,6,0,Own,Married,PhD,0
+150,39,61000,Unemployed,12500,Medical,Poor,0.46,5,2,Rent,Divorced,High School,1
+151,34,55000,Employed,12000,Car,Good,0.25,4,0,Own,Married,Bachelor,0
+152,45,72000,Self-Employed,20000,Home Improvement,Fair,0.32,6,1,Rent,Married,Master,0
+153,29,43000,Employed,8000,Personal,Good,0.18,3,0,Own,Single,Bachelor,0
+154,52,90000,Employed,25000,Debt Consolidation,Excellent,0.28,7,0,Own,Married,PhD,0
+155,38,61000,Unemployed,10000,Medical,Poor,0.40,5,2,Rent,Divorced,High School,1
+156,41,67000,Employed,15000,Car,Fair,0.30,5,1,Own,Married,Bachelor,0
+157,27,39000,Employed,7000,Personal,Good,0.22,2,0,Rent,Single,Bachelor,0
+158,33,52000,Self-Employed,11000,Home Improvement,Fair,0.27,4,0,Own,Married,Master,0
+159,48,80000,Employed,22000,Debt Consolidation,Excellent,0.26,6,0,Own,Married,PhD,0
+160,36,58000,Unemployed,9000,Medical,Poor,0.38,4,2,Rent,Divorced,High School,1
+161,30,45000,Employed,8500,Car,Good,0.20,3,0,Own,Single,Bachelor,0
+162,44,75000,Self-Employed,21000,Home Improvement,Fair,0.33,6,1,Rent,Married,Master,0
+163,28,40000,Employed,7500,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+164,53,92000,Employed,26000,Debt Consolidation,Excellent,0.29,7,0,Own,Married,PhD,0
+165,39,62000,Unemployed,10500,Medical,Poor,0.41,5,2,Rent,Divorced,High School,1
+166,42,68000,Employed,15500,Car,Fair,0.31,5,1,Own,Married,Bachelor,0
+167,26,38000,Employed,6800,Personal,Good,0.21,2,0,Rent,Single,Bachelor,0
+168,32,51000,Self-Employed,10800,Home Improvement,Fair,0.26,4,0,Own,Married,Master,0
+169,47,79000,Employed,21800,Debt Consolidation,Excellent,0.25,6,0,Own,Married,PhD,0
+170,35,57000,Unemployed,8800,Medical,Poor,0.37,4,2,Rent,Divorced,High School,1
+171,31,46000,Employed,8700,Car,Good,0.21,3,0,Own,Single,Bachelor,0
+172,43,76000,Self-Employed,21500,Home Improvement,Fair,0.34,6,1,Rent,Married,Master,0
+173,29,41000,Employed,7800,Personal,Good,0.20,2,0,Own,Single,Bachelor,0
+174,54,93000,Employed,27000,Debt Consolidation,Excellent,0.30,7,0,Own,Married,PhD,0
+175,40,63000,Unemployed,11000,Medical,Poor,0.42,5,2,Rent,Divorced,High School,1
+176,43,69000,Employed,16000,Car,Fair,0.32,5,1,Own,Married,Bachelor,0
+177,25,37000,Employed,6500,Personal,Good,0.20,2,0,Rent,Single,Bachelor,0
+178,34,50000,Self-Employed,10500,Home Improvement,Fair,0.25,4,0,Own,Married,Master,0
+179,49,81000,Employed,22500,Debt Consolidation,Excellent,0.27,6,0,Own,Married,PhD,0
+180,37,59000,Unemployed,9500,Medical,Poor,0.39,4,2,Rent,Divorced,High School,1
+181,32,47000,Employed,9000,Car,Good,0.22,3,0,Own,Single,Bachelor,0
+182,46,77000,Self-Employed,22000,Home Improvement,Fair,0.35,6,1,Rent,Married,Master,0
+183,30,42000,Employed,8000,Personal,Good,0.19,2,0,Own,Single,Bachelor,0
+184,55,94000,Employed,28000,Debt Consolidation,Excellent,0.31,7,0,Own,Married,PhD,0
+185,41,64000,Unemployed,11500,Medical,Poor,0.43,5,2,Rent,Divorced,High School,1
+186,44,70000,Employed,16500,Car,Fair,0.33,5,1,Own,Married,Bachelor,0
+187,24,36000,Employed,6200,Personal,Good,0.19,2,0,Rent,Single,Bachelor,0
+188,35,49000,Self-Employed,10200,Home Improvement,Fair,0.24,4,0,Own,Married,Master,0
+189,50,82000,Employed,23000,Debt Consolidation,Excellent,0.28,6,0,Own,Married,PhD,0
+190,38,60000,Unemployed,12000,Medical,Poor,0.44,5,2,Rent,Divorced,High School,1
+191,33,48000,Employed,9200,Car,Good,0.23,3,0,Own,Single,Bachelor,0
+192,47,78000,Self-Employed,22500,Home Improvement,Fair,0.36,6,1,Rent,Married,Master,0
+193,31,43000,Employed,8200,Personal,Good,0.18,2,0,Own,Single,Bachelor,0
+194,56,95000,Employed,29000,Debt Consolidation,Excellent,0.32,7,0,Own,Married,PhD,0
+195,42,65000,Unemployed,11800,Medical,Poor,0.45,5,2,Rent,Divorced,High School,1
+196,45,71000,Employed,17000,Car,Fair,0.34,5,1,Own,Married,Bachelor,0
+197,23,35000,Employed,6000,Personal,Good,0.18,2,0,Rent,Single,Bachelor,0
+198,36,48000,Self-Employed,9900,Home Improvement,Fair,0.23,4,0,Own,Married,Master,0
+199,51,83000,Employed,23500,Debt Consolidation,Excellent,0.29,6,0,Own,Married,PhD,0
+200,39,61000,Unemployed,12500,Medical,Poor,0.46,5,2,Rent,Divorced,High School,1
